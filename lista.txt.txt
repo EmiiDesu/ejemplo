@@ -1,8 +1,8 @@
 Comidas:
 
 pan
-leche
 banana
-huevo
+harina
+tomate
 
 Limpieza:
