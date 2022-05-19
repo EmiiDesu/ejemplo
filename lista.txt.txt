@@ -1,8 +1,8 @@
-Comidas:
+Comidas ensalada:
 
 pan
-banana
-harina
+zapallito
+lechuga
 tomate
 
 Limpieza:
