@@ -6,3 +6,6 @@ harina
 tomate
 
 Limpieza:
+
+detergente
+jabón 
